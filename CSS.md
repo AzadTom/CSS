@@ -1,8 +1,8 @@
 
 # Css interview question and answer
 
- 
 
+ 
 
 1. what is the box model in css ? which css property are a part of it?
 
